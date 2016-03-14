@@ -5,11 +5,11 @@
   <parent>
     <groupId>net.sf.tomcatplugin</groupId>
     <artifactId>tomcatplugin</artifactId>
-    <version>3.3.5</version>
+    <version>3.3.6</version>
   </parent>
   <groupId>net.sf.tomcatplugin</groupId>
   <artifactId>net.sf.eclipse.tomcat.updatesite.aggregator</artifactId>
-  <version>3.3.5</version>
+  <version>3.3.6</version>
   <packaging>pom</packaging>
   <modules>
     <module>../net.sf.eclipse.tomcat</module>
